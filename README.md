@@ -1,6 +1,6 @@
 # Read-and-Gain
 Enhancing health, diminishing dopamine
-
+link:https://read-gain.onrender.com/
 <h2>Inspiration</h2>
 <p> In the modern world, people often prioritize their mobile devices over fundamental needs such as food, sleep, and overall health. Unfortunately, addiction has become increasingly prevalent, whether it be to phones, web series, video games, smoking, alcohol, or sexual content. This excessive reliance on dopamine-inducing activities has led individuals to crave increasingly intense and visual content, causing them to overlook the inherent capabilities of their own brains and their creative imagination, which no film or web series can truly match. The main objective is to cultivate healthier habits. Consider asking students a simple question: What do they prefer, watching web series overnight or dedicating an hour to reading a book? Undoubtedly, most would choose the former. We are gradually training our brains to seek immediate pleasures that result in a quick dopamine release, rather than encouraging the development of reading habits. Our goal is to inspire individuals to invest time in reading books that capture their interest, dedicating an hour or two to the activity. At the end of each book, they will write a summary encompassing their learnings, favorite quotes, and visual experiences, providing valuable insights and motivating other readers. As a reward for fostering a healthy reading habit, we will offer a modest contribution to encourage them to continue their reading journey and contribute to a thriving community.  </p>
 
