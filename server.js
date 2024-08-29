@@ -1,5 +1,6 @@
 const express = require('express');
 const app = express();
+const PORT = process.env.PORT || 3030;
 const mongoose = require('mongoose');
 const bodyParser = require('body-parser');
 const Cryptr = require('cryptr');
@@ -144,6 +145,10 @@ app.post("/login",async(req,res)=>{
       }
 });
 
-app.listen(8080,function(req,res){
-    console.log("You website is running in localhost:8080");
+// app.listen(8080,function(req,res){
+//     console.log("You website is running in localhost:8080");
+// });
+
+app.listen(PORT, () => {
+  console.log(`server started on port ${PORT}`);
 });
